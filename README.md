@@ -1,2 +1,6 @@
 # Snake-Game-Cpp
-Simple snake game using Cpp
+Just a simple snake game using Cpp LOL
+
+If you want to play it, download entire file and execute Snake Game.exe
+
+Source code is in main.cpp
